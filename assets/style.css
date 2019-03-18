@@ -1,0 +1,19 @@
+
+button{
+  
+    margin: 10px;
+    border: 2px;
+    height: 100px;
+    width: 100px;
+    color: black;
+
+}
+#Rock{
+background-color: aqua;
+}
+#Paper{
+background-color:fuchsia;
+}
+#Scissors{
+background-color:green;
+}
